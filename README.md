@@ -1,7 +1,5 @@
-# COMPENG-2DX3
-Microprocessor Systems Project - Microprocessor systems, introduction to the design process, project development by small teams of students, oral presentations and engineering report writing.
-
 # COMPENG 2DX3 – Microprocessor Systems Project
+Microprocessor Systems Project - Microprocessor systems, introduction to the design process, project development by small teams of students, oral presentations and engineering report writing.
 This repository contains my written deliverables for COMPENG 2DX3: Microprocessor Systems Project, including:
 - Theme Reports (Observe, Reason, Act).
 - Pre-Lab Reports.
