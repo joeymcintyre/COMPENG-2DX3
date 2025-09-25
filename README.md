@@ -7,6 +7,7 @@ This repository contains my written deliverables for COMPENG 2DX3: Microprocesso
 The hands-on labs were completed in person on lab computers using the MSP432E401Y ARM Cortex-M4F LaunchPad, the Keil µVision IDE, and supporting peripherals (keypads, LEDs, stepper motors, sensors, etc.). While lab source files were not retained, this README documents the scope and objectives of each laboratory exercise from the official lab manual.
 
 📘 Course Overview: 
+
 2DX3 is a project-based embedded systems course structured around the themes:
 - Observe – capturing and interpreting digital/analog signals.
 - Reason – processing data with microcontrollers, state machines, and timing.
